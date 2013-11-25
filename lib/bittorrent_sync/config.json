@@ -1,0 +1,18 @@
+{
+    // path to folder where Sync will store its internal data
+    "storage_path" : "",
+
+    // run Sync in GUI-less mode
+    "use_gui" : false,
+
+    "webui" : {
+        // IP address and port to access HTTP API
+        "listen" : "127.0.0.1:8888",
+        // login and password for HTTP basic authentication
+        // authentication is optional, but it's recommended to use some
+        // secret values unique for each Sync installation
+        "login" : "",
+        "password" : "",
+        "api_key" : "3LAPHR6SXEJNXMSSGX4Z3C3GVJUAIT2UZHHLNALZXG3C73NL7UC75UVIBERY3ZKZDOXG5CB5UH2KL47ORNPTBDUT7SAOGXCT7VJCQBN2DNTV2P6YPZJ55RB4HQOQ2ZEC5V5ZVOQ"
+    }
+}
